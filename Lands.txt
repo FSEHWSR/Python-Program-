@@ -1,0 +1,5 @@
+901,Dhankuta,East,4,100000,Not Available
+902,Kathmandu,West,5,120000,Available
+903,Lalitpur,North,6,140000,Available
+904,Birendranagar,South,7,180000,Available
+905,Janakpur,East,8,200000,Available
